@@ -1,0 +1,19 @@
+{
+  "name": "simple_sample_tdd_example",
+  "version": "0.0.1",
+  "description": "An example containing mocha and chai and a simple sample test suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/litterbox-sf-jan/simple_sample_tdd_example.git"
+  },
+  "author": "@zealoushacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litterbox-sf-jan/simple_sample_tdd_example/issues"
+  },
+  "homepage": "https://github.com/litterbox-sf-jan/simple_sample_tdd_example"
+}
